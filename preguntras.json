@@ -1,0 +1,190 @@
+{
+    "pagina": [{
+        "nombre": "Pagina",
+        "preguntas_respuestas": [{
+            "General": [{
+                "preguntas": [
+                    "¿Cuál es la oferta educativa que ofrece la Universidad?",
+                    "¿Los programas educativos cuentan con RVOES? ",
+                    "¿Ofrecen programas de becas o ayudas de financiamiento?",
+                    "¿Cuál es el proceso de admisión para la Universidad?",
+                    "¿Cuáles son los requisitos principales para tomar cursos en línea?",
+                    "¿Cómo trámito mi certificado parcial de estudios?",
+                    "¿Cómo trámito mi certificado total de estudios?",
+                    "¿Ofrecen asesoramiento académico o profesional a los estudiantes?",
+                    "¿Cuáles son los costos de los programas educativos?"
+                ],
+                "respuestas": [
+                    "Ofrecemos cinco programas educativos en modalidad escolarizada y uno en modalidad virtual. Si quieres conocer más acerca de los programas educativos, da click en el siguiente link y te enviaremos toda la información. (Al dar click se direcciona a un formulario para captar sus datos)",
+                    "Todos nuestros programas educativos tanto en linea como en presencial cuentan con Reconocimiento de Validez Oficial de Estudios (RVOE) Si quieres conocer sobre ellos da click en el siguiente formulario y estaremos enviandote la información correspondiente.",
+                    "Sí, tenemos programas de financiamiento de acuerdo a tu necesidad. Ponte en contacto con nuestros asesores.",
+                    "Nuestra universidad tiene varios periodos de admisión, descarga nuestra convocatoria más próxima.",
+                    "Nuestros requisitos los puedes encontrar en nuestras convocatorias, dónde uno de los requisitos más importantes es que quieras formar parte de nuestra comunidad.",
+                    "Todos los documentos oficiales los puedes tramitar directamente en nuestras instalaciones o escribiendo vía correo electrónico al departamento de Servicios Escolares.",
+                    "Todos los documentos oficiales los puedes tramitar directamente en nuestras instalaciones o escribiendo vía correo electrónico al departamento de Servicios Escolares.",
+                    "Nuestra filosofia está basada en orientar a nuestros estudiantes, todos nuestros facilitadores están en la mejor disposición para ayudarte y orientarte.",
+                    "Da clic en el programa que requieres información para conocer todo al respecto. Da clic en el siguiente link y agenda una llamada para contarte todo sobre los programas de financiamiento que tenemos especialmente para ti."
+                ]
+
+            }]
+        }]
+    }],
+    "plataforma": [{
+        "nombre": "PLataforma",
+        "preguntas_respuestas": [{
+            "estudiante": [{
+                "Autenticacion": {
+                    "nombre": "Autenticación",
+                    "preguntas": [
+                        "¿Cómo puedo restablecer mi contraseña de usuario?",
+                        "Perdí mi contraseña, ¿cómo la reestablezco?",
+                        "¿Cómo puedo establecer mi perfil?"
+                    ],
+                    "respuestas": [
+                        "Da clic en olvide mi contraseña y nosotros te enviaremos una nueva a tu correo, \"La contraseña es provisional\", se le pedirá que la cambie.",
+                        "Te enviaremos a tu correo institucional la nueva contraseña. \"La contraseña es provisional\", se le pedirá que la cambie. ",
+                        "Da clic en tu cuenta que se encuentra en el lado superior derecho e inicia cambiando tu foto de perfil y tu nombre."
+                    ]
+                },
+                "Oferta-Educativa": {
+                    "nombre": "Oferta Educativa",
+                    "preguntas": [
+                        "¿Dónde encuentro el número de RVOE del programa educativo?",
+                        "¿Cómo puedo saber que docente o facilitador dará el curso? ",
+                        "¿La plataforma educativa ofrece cursos en otros idiomas además del español?"
+                    ],
+                    "respuestas": [
+                        "Da clic desde la plataforma en cualquier programa educativo y descarga el Acuerdo emitido por la SEP",
+                        "Al seleccionar el curso para inscribirte hay una reseña del curriculum del facilitador que estará impartiendo, podrás descargarla y revisarla a detalle.",
+                        "Sí tenemos convenio con el Centro de Lenguas Extrajeras de Ibex que está imaprtiendo los cursos de Inglés básico, intermedio y avanzado. Para conocer más información ponte en contacto con tu monitor. "
+                    ]
+                },
+                "Inscripciones": {
+                    "nombre": "Inscripciones",
+                    "preguntas": [
+                        "¿Cómo puedo inscribirme en un curso?",
+                        "¿Cómo saber si ya estoy inscrito en el curso?",
+                        "¿Que requisitos requiero para inscribirme en el curso? "
+                    ],
+                    "respuestas": [
+                        "Para inscribirte en un curso conoce las fechas en tu calendario escolar y envia tu formulario al Departamento de Servicios Escolares.",
+                        "Al ingresar a tu plataforma, deberás tener en el escritorio o pantalla principal los cursos a los que ya estás inscrito, si aún no aparece el curso al que te inscribiste, selecciona ayuda Servicios Escolares.",
+                        "Respuesta 3"
+                    ]
+                },
+                "Servicios-Escolares": {
+                    "nombre": "Servicios Escolares",
+                    "preguntas": [
+                        "¿Cuál es el horario de atención en servicios escolares?",
+                        "¿Cómo tramito una constancia de estudios?",
+                        "¿Cómo trámito mi certificado parcial de estudios?",
+                        "¿Cómo trámito mi certificado total de estudios?",
+                        "¿Hay oportunidades de prácticas profesionales o pasantías disponibles a través de la plataforma educativa?"            
+                    ],
+                    "respuestas": [
+                        "Recuerda que los horarios de atención de manera presencial son de 9:00 a 4:00 pm y de 5:00 a 7:00 pm. De manera virtual puedes enviar un correo al departamento de Servicios Escolares y escribir en que podemos ayudarte, nos pondremos en contacto a la brevedad.",
+                        "Da clic en trámites en línea, después elije la opción que requieras y haz el pago correspondiente, envia la captura y te llegará a tu correo. Si la requieres en fisico podras acudir en los siguientes horarios 9:00 a 4:00 pm y de 5:00 a 7:00 pm al departamento.",
+                        "Da clic en trámites en línea, después elije la opción que requieras y haz el pago correspondiente, envia la captura y te llegará a tu correo. Si la requieres en fisico podras acudir en los siguientes horarios 9:00 a 4:00 pm y de 5:00 a 7:00 pm al departamento.",
+                        "Da clic en trámites en línea, después elije la opción que requieras y haz el pago correspondiente, envia la captura y te llegará a tu correo. Si la requieres en fisico podras acudir en los siguientes horarios 9:00 a 4:00 pm y de 5:00 a 7:00 pm al departamento.",
+                        "Actualmente no tenemos esa opción pero estamos trabajando para ti. Pronto recibirás noticias!!"
+                    ]
+                },
+                "Pagos": {
+                    "nombre": "Pagos",
+                    "preguntas": [
+                        "¿Cómo pago el curso?",
+                        "¿Hasta cuando puedo pagar el curso?",
+                        "¿Hasta cuando puedo pagar la mensualidad? "
+                    ],
+                    "respuestas": [
+                        "Da clic en Pagos en línea, selecciona el tramite que requieres, y descarga la linea de captura para hacer el pago en cualquier banco, o a traves de la refrencia bancaria puedes hacer la transferencia bancaria y envia el recibo al siguiente correo deptofinanciero.santamonica@edu.mx",
+                        "Los pagos de los cursos se pueden pagar hasta un día antes del curso para que podamos enviarte toda la información necesaria.",
+                        "Nos alegra poder ayudarte, recuerda que si quieres descuento del 10% por pronto pago debes cucbir la mensualidad en los diez primeros días, sin embargo, despues del día 11 hasta el ultimo día del mes puedes cubrir tu mensualidad sin recargos. Pasado el mes el pago tendrá recargos por pago tardío."
+                    ]
+                },
+                "Contacto-Profesor": {
+                    "nombre": "Contacto Profesor",
+                    "preguntas": [
+                        "¿Ofrecen asesoramiento académico o profesional a los estudiantes?",
+                        "¿Cómo puedo contactar a un profesor o tutor? (Horarios)"
+                    ],
+                    "respuestas": [
+                        "Sí, ofrecemos diferentes maneras para tener asesoramiento académico, puedes acudir de manera presencial a tu institución o también podrías acudir a tu aula virtual con tu tutor.",
+                        "Recuerda que puedes solicitar una asesoría de manera presencial o virtual según te acomoden los horarios, ponte en contacto con el jefe de asignatura para que te envie vía correo electronico las diferentes formas para poder contactar a tu profesor."
+                    ]
+                }
+            }],
+            "facilitador": [{
+                "Autenticacion": {
+                    "nombre": "Autenticación",
+                    "preguntas": [
+                        "¿Cómo puedo restablecer mi contraseña de usuario?",
+                        "Perdí mi contraseña, ¿cómo la reestablezco?",
+                        "¿Cómo puedo establecer mi perfil?"
+                    ],
+                    "respuestas": [
+                        "Da clic en olvide mi contraseña y nosotros te enviaremos una nueva a tu correo, \"la contraseña es provisional\", se le pedirá que la cambie.",
+                        "Te enviaremos a tu correo institucional la nueva contraseña. \"La contraseña es provisional\", se le pedirá que la cambie. ",
+                        "Da clic en tu cuenta que se encuentra en el lado superior derecho e inicia cambiando tu foto de perfil y tu nombre."
+                    ]
+                },
+                "Pagos-por-servicios": {
+                    "nombre": "Pagos por servicios",
+                    "preguntas": [
+                        "¿Cómo puedo tramitar mi pago? ",
+                        "¿Cuándo recibiré el pago por el curso impartido?"
+                    ],
+                    "respuestas": [
+                        "Los pagos se hacen automaticamente al termino del curso, por eso es importante que tus datos estén correctos. Sí han pasado más de 10 días de haber concluido el curso o taller impartido y aún no ha llegado tu pago, envia un correo a cobranzanominal@santamonica.edu.mx y envianos tu incidencia.",
+                        "Los pagos se hacen de inmediato al concluir los cursos o talleres impartidos, tenemos 10 día habiles por cualquier tráfico en el sistema."
+                    ]
+                },
+                "Capacitacion-y-actualizacion": {
+                    "nombre": "Capacitación y actualización",
+                    "preguntas": [
+                        "¿Cómo puedo inscribirme a los cursos de capacitación que está impartiendo la institución?",
+                        "¿Qué cursos o capacitaciones tienen acreditación curricular? ",
+                        "¿Que requisitos requiero para inscribirme en el curso? "
+                    ],
+                    "respuestas": [
+                        "Selecciona el curso de interés, da clic para calcular tu beca y descarga la linea de captura para hacer el pago correspondiente. Envianos tu comprobante al siguiente correo educacioncontinuadocencia@gmail.com.mx Ponte en contacto con tu jefe de asignatura para que te oriente en el proceso.",
+                        "Todos los cursos o talleres que tengan convenio con otras instituciones tiene acreditación curricular misma que se trámita al término del curso.",
+                        "Solo contar con tu número de empleado vigente."
+                    ]
+                },
+                "Docencia-y-tutorias": {
+                    "nombre": "Docencia y tutorías",
+                    "preguntas": [
+                        "¿Cómo puedo monitorear el rendimiento de mis cursos?",
+                        "¿Cómo puedo monitorear el rendimiento de los estudiantes en los cursos que impartí?",
+                        "¿Cuáles son las herramientas de comunicación disponibles para mantenerse en contacto con los estudiantes?",
+                        "¿Cómo me comunicó con algún estudiante para aclarar dudas?"
+                    ],
+                    "respuestas": [
+                        "Todos los cursos que impartes tienen una barra de porcentaje dónde puedes observar el avance general de tu clase, la propia plataforma también conserva información sobre las actividades y tareas entregadas por los alumnos en tiempo y forma. Revisalo periodicamente para ver tus metas.",
+                        "Todos los cursos que impartes tienen una barra de porcentaje dónde puedes observar el avance general de tu clase, la propia plataforma también conserva información sobre las actividades y tareas entregadas por los alumnos en tiempo y forma. Revisalo periodicamente para ver tus metas.",
+                        "Todos los docentes y facilitadores tienen un aula virtual para interactuar con los alumnos en tiempo real, también ponemos a tu disposición el chat con los estudiantes para que envíes dudas u observaciones de manera más personalizada.",
+                        "Los estudiantes tienen a su disposicion un chat dónde puedes escribir de manera más personalizada las dudas que tengas, o los requirimientos a los mismos, también recuerda que cada alumno tiene correo institucional activo para escribir alguna incidencia, copiando a tu jefe de asigntura."
+                    ]
+                },
+                "Apoyo-y-soporte-tecnico": {
+                    "nombre": "Apoyo y soporte técnico",
+                    "preguntas": [
+                        "¿Hay otras opciones de integrar el aprendizaje con otras plataformas o herramientas?",
+                        "¿Cuáles son las políticas de privacidad y seguridad de la plataforma educativa?",
+                        "¿Cuáles son las oportunidades de colaboración con otros docentes dentro de la plataforma educativa?",
+                        "¿Cómo puedo publicar un nuevo curso en la plataforma educativa?",
+                        "¿Cuál es el soporte técnico disponible para los docentes en caso de problemas o incidencias?"
+                    ],
+                    "respuestas": [
+                        "Estamos trabajando en ello. Nos pondremos en contacto contigo.",
+                        "Te invitamos a que consultes el siguiente link https://recursosdigitales.anuies.mx/ciberseguridad-para-educacion-en-linea/",
+                        "Todos los fines de mes los docentes tienen un coffee break en la Universidad ya sea a distancia o de manera presencial, esto con el objetivo de impulsar el trabajo colaborativo entre profesoras y profesores para reflexionar, debatir y exponer sus puntos de vistas en un ambiente de compañerismo y crecimiento profesional.",
+                        "Envía tu curso al administrador con sus especificaciones para que pueda publicarlo.",
+                        "Envía un correo al administrador especificando tu incidencia para poder resolverla."
+                    ]
+                }
+            }]
+        }]
+    }]
+}
