@@ -3,6 +3,7 @@
         "nombre": "Pagina",
         "preguntas_respuestas": [{
             "General": [{
+                "nombre": "General",
                 "preguntas": [
                     "¿Cuál es la oferta educativa que ofrece la Universidad?",
                     "¿Los programas educativos cuentan con RVOES? ",
@@ -31,8 +32,8 @@
     }],
     "plataforma": [{
         "nombre": "PLataforma",
-        "preguntas_respuestas": [{
-            "estudiante": [{
+        "preguntas_respuestas": {
+            "estudiante": {
                 "Autenticacion": {
                     "nombre": "Autenticación",
                     "preguntas": [
@@ -113,7 +114,7 @@
                         "Recuerda que puedes solicitar una asesoría de manera presencial o virtual según te acomoden los horarios, ponte en contacto con el jefe de asignatura para que te envie vía correo electronico las diferentes formas para poder contactar a tu profesor."
                     ]
                 }
-            }],
+            },
             "facilitador": [{
                 "Autenticacion": {
                     "nombre": "Autenticación",
@@ -185,6 +186,6 @@
                     ]
                 }
             }]
-        }]
+        }
     }]
 }
