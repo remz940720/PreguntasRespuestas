@@ -31,7 +31,7 @@
         }]
     }],
     "plataforma": [{
-        "nombre": "PLataforma",
+        "nombre": "Plataforma",
         "preguntas_respuestas": {
             "estudiante": {
                 "Autenticacion": {
@@ -47,7 +47,7 @@
                         "Da clic en tu cuenta que se encuentra en el lado superior derecho e inicia cambiando tu foto de perfil y tu nombre."
                     ]
                 },
-                "Oferta-Educativa": {
+                "Oferta_Educativa": {
                     "nombre": "Oferta Educativa",
                     "preguntas": [
                         "¿Dónde encuentro el número de RVOE del programa educativo?",
@@ -73,7 +73,7 @@
                         "Respuesta 3"
                     ]
                 },
-                "Servicios-Escolares": {
+                "Servicios_Escolares": {
                     "nombre": "Servicios Escolares",
                     "preguntas": [
                         "¿Cuál es el horario de atención en servicios escolares?",
@@ -103,7 +103,7 @@
                         "Nos alegra poder ayudarte, recuerda que si quieres descuento del 10% por pronto pago debes cucbir la mensualidad en los diez primeros días, sin embargo, despues del día 11 hasta el ultimo día del mes puedes cubrir tu mensualidad sin recargos. Pasado el mes el pago tendrá recargos por pago tardío."
                     ]
                 },
-                "Contacto-Profesor": {
+                "Contacto_Profesor": {
                     "nombre": "Contacto Profesor",
                     "preguntas": [
                         "¿Ofrecen asesoramiento académico o profesional a los estudiantes?",
@@ -129,7 +129,7 @@
                         "Da clic en tu cuenta que se encuentra en el lado superior derecho e inicia cambiando tu foto de perfil y tu nombre."
                     ]
                 },
-                "Pagos-por-servicios": {
+                "Pagos_por_servicios": {
                     "nombre": "Pagos por servicios",
                     "preguntas": [
                         "¿Cómo puedo tramitar mi pago? ",
@@ -140,7 +140,7 @@
                         "Los pagos se hacen de inmediato al concluir los cursos o talleres impartidos, tenemos 10 día habiles por cualquier tráfico en el sistema."
                     ]
                 },
-                "Capacitacion-y-actualizacion": {
+                "Capacitacion_y_actualizacion": {
                     "nombre": "Capacitación y actualización",
                     "preguntas": [
                         "¿Cómo puedo inscribirme a los cursos de capacitación que está impartiendo la institución?",
@@ -153,7 +153,7 @@
                         "Solo contar con tu número de empleado vigente."
                     ]
                 },
-                "Docencia-y-tutorias": {
+                "Docencia_y_tutorias": {
                     "nombre": "Docencia y tutorías",
                     "preguntas": [
                         "¿Cómo puedo monitorear el rendimiento de mis cursos?",
@@ -168,7 +168,7 @@
                         "Los estudiantes tienen a su disposicion un chat dónde puedes escribir de manera más personalizada las dudas que tengas, o los requirimientos a los mismos, también recuerda que cada alumno tiene correo institucional activo para escribir alguna incidencia, copiando a tu jefe de asigntura."
                     ]
                 },
-                "Apoyo-y-soporte-tecnico": {
+                "Apoyo_y_soporte_tecnico": {
                     "nombre": "Apoyo y soporte técnico",
                     "preguntas": [
                         "¿Hay otras opciones de integrar el aprendizaje con otras plataformas o herramientas?",
