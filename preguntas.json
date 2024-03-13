@@ -115,7 +115,7 @@
                     ]
                 }
             },
-            "facilitador": [{
+            "facilitador": {
                 "Autenticacion": {
                     "nombre": "Autenticación",
                     "preguntas": [
@@ -185,7 +185,7 @@
                         "Envía un correo al administrador especificando tu incidencia para poder resolverla."
                     ]
                 }
-            }]
+            }
         }
     }]
 }
