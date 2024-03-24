@@ -1,0 +1,24 @@
+{
+    "categorias":[
+        {
+            "id": "AUT",
+            "nombre": "Autenticación"
+        },
+        {
+            "id": "PPS",
+            "nombre": "Pagos por servicios"
+        },
+        {
+            "id": "CA",
+            "nombre": "Capacitación y actualización"
+        },
+        {
+            "id": "DT",
+            "nombre": "Docencia y tutorías"
+        },
+        {
+            "id": "AST",
+            "nombre": "Apoyo y soporte técnico"
+        }
+    ]
+}

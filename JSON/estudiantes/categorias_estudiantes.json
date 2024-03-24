@@ -1,0 +1,28 @@
+{
+    "categorias":[
+        {
+            "id": "AUT",
+            "nombre": "Autenticación"
+        },
+        {
+            "id": "OE",
+            "nombre": "Oferta educativa"
+        },
+        {
+            "id": "INS",
+            "nombre": "Inscripciones"
+        },
+        {
+            "id": "SE",
+            "nombre": "Servicios escolares"
+        },
+        {
+            "id": "PA",
+            "nombre": "Pagos"
+        },
+        {
+            "id": "CP",
+            "nombre": "Contacto profesor"
+        }
+    ]
+}

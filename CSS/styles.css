@@ -1,0 +1,8 @@
+.categoria-options {
+    display: none;
+  }
+  
+  .categoria-options.visible {
+    display: block;
+  }
+  

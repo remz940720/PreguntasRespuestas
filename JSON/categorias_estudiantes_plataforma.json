@@ -1,0 +1,88 @@
+{
+    "autenticación": [{
+        "id": "AUT",
+        "nombre": "Autenticación",
+        "preguntas": [
+            "¿Cómo puedo restablecer mi contraseña de usuario?",
+            "Perdí mi contraseña, ¿cómo la reestablezco?",
+            "¿Cómo puedo establecer mi perfil?"
+        ],
+        "respuestas": [
+            "Da clic en olvide mi contraseña y nosotros te enviaremos una nueva a tu correo, \"La contraseña es provisional\", se le pedirá que la cambie.",
+            "Te enviaremos a tu correo institucional la nueva contraseña. \"La contraseña es provisional\", se le pedirá que la cambie. ",
+            "Da clic en tu cuenta que se encuentra en el lado superior derecho e inicia cambiando tu foto de perfil y tu nombre."
+        ]
+    }],
+    "oferta_educativa": [{
+        "id": "OE",
+        "nombre": "Oferta Educativa",
+        "preguntas": [
+            "¿Dónde encuentro el número de RVOE del programa educativo?",
+            "¿Cómo puedo saber que docente o facilitador dará el curso? ",
+            "¿La plataforma educativa ofrece cursos en otros idiomas además del español?"
+        ],
+        "respuestas": [
+            "Da clic desde la plataforma en cualquier programa educativo y descarga el Acuerdo emitido por la SEP",
+            "Al seleccionar el curso para inscribirte hay una reseña del curriculum del facilitador que estará impartiendo, podrás descargarla y revisarla a detalle.",
+            "Sí tenemos convenio con el Centro de Lenguas Extrajeras de Ibex que está imaprtiendo los cursos de Inglés básico, intermedio y avanzado. Para conocer más información ponte en contacto con tu monitor. "
+        ]
+    }],
+    "inscripciones": [{
+        "id": "INS",
+        "nombre": "Inscripciones",
+        "preguntas": [
+            "¿Cómo puedo inscribirme en un curso?",
+            "¿Cómo saber si ya estoy inscrito en el curso?",
+            "¿Que requisitos requiero para inscribirme en el curso? "
+        ],
+        "respuestas": [
+            "Para inscribirte en un curso conoce las fechas en tu calendario escolar y envia tu formulario al Departamento de Servicios Escolares.",
+            "Al ingresar a tu plataforma, deberás tener en el escritorio o pantalla principal los cursos a los que ya estás inscrito, si aún no aparece el curso al que te inscribiste, selecciona ayuda Servicios Escolares.",
+            "Respuesta 3"
+        ]
+    }],
+    "servicios_escolares": [{
+        "id": "SE",
+        "nombre": "Servicios escolares",
+        "preguntas": [
+            "¿Cuál es el horario de atención en servicios escolares?",
+            "¿Cómo tramito una constancia de estudios?",
+            "¿Cómo trámito mi certificado parcial de estudios?",
+            "¿Cómo trámito mi certificado total de estudios?",
+            "¿Hay oportunidades de prácticas profesionales o pasantías disponibles a través de la plataforma educativa?"            
+        ],
+        "respuestas": [
+            "Recuerda que los horarios de atención de manera presencial son de 9:00 a 4:00 pm y de 5:00 a 7:00 pm. De manera virtual puedes enviar un correo al departamento de Servicios Escolares y escribir en que podemos ayudarte, nos pondremos en contacto a la brevedad.",
+            "Da clic en trámites en línea, después elije la opción que requieras y haz el pago correspondiente, envia la captura y te llegará a tu correo. Si la requieres en fisico podras acudir en los siguientes horarios 9:00 a 4:00 pm y de 5:00 a 7:00 pm al departamento.",
+            "Da clic en trámites en línea, después elije la opción que requieras y haz el pago correspondiente, envia la captura y te llegará a tu correo. Si la requieres en fisico podras acudir en los siguientes horarios 9:00 a 4:00 pm y de 5:00 a 7:00 pm al departamento.",
+            "Da clic en trámites en línea, después elije la opción que requieras y haz el pago correspondiente, envia la captura y te llegará a tu correo. Si la requieres en fisico podras acudir en los siguientes horarios 9:00 a 4:00 pm y de 5:00 a 7:00 pm al departamento.",
+            "Actualmente no tenemos esa opción pero estamos trabajando para ti. Pronto recibirás noticias!!"
+        ]
+    }],
+    "pagos": [{
+        "id": "PA",
+        "nombre": "Pagos",
+        "preguntas": [
+            "¿Cómo pago el curso?",
+            "¿Hasta cuando puedo pagar el curso?",
+            "¿Hasta cuando puedo pagar la mensualidad? "
+        ],
+        "respuestas": [
+            "Da clic en Pagos en línea, selecciona el tramite que requieres, y descarga la linea de captura para hacer el pago en cualquier banco, o a traves de la refrencia bancaria puedes hacer la transferencia bancaria y envia el recibo al siguiente correo deptofinanciero.santamonica@edu.mx",
+            "Los pagos de los cursos se pueden pagar hasta un día antes del curso para que podamos enviarte toda la información necesaria.",
+            "Nos alegra poder ayudarte, recuerda que si quieres descuento del 10% por pronto pago debes cucbir la mensualidad en los diez primeros días, sin embargo, despues del día 11 hasta el ultimo día del mes puedes cubrir tu mensualidad sin recargos. Pasado el mes el pago tendrá recargos por pago tardío."
+        ]
+    }],
+    "contacto_profesor": [{
+        "id": "CP",
+        "nombre": "Contacto Profesor",
+        "preguntas": [
+            "¿Ofrecen asesoramiento académico o profesional a los estudiantes?",
+            "¿Cómo puedo contactar a un profesor o tutor? (Horarios)"
+        ],
+        "respuestas": [
+            "Sí, ofrecemos diferentes maneras para tener asesoramiento académico, puedes acudir de manera presencial a tu institución o también podrías acudir a tu aula virtual con tu tutor.",
+            "Recuerda que puedes solicitar una asesoría de manera presencial o virtual según te acomoden los horarios, ponte en contacto con el jefe de asignatura para que te envie vía correo electronico las diferentes formas para poder contactar a tu profesor."
+        ]
+    }]
+}

@@ -1,0 +1,88 @@
+{
+    "respuestas": [{
+            "id_categoria": "AUT",
+            "id": "AUT1",
+            "respuesta": "Da clic en olvide mi contraseña y nosotros te enviaremos una nueva a tu correo, \"la contraseña es provisional\", se le pedirá que la cambie."
+        },
+        {
+            "id_categoria": "AUT",
+            "id": "AUT2",
+            "respuesta": "Te enviaremos a tu correo institucional la nueva contraseña. \"La contraseña es provisional\", se le pedirá que la cambie."
+        },
+        {
+            "id_categoria": "AUT",
+            "id": "AUT3",
+            "respuesta": "Da clic en tu cuenta que se encuentra en el lado superior derecho e inicia cambiando tu foto de perfil y tu nombre."
+        },
+        {
+            "id_categoria": "PPS",
+            "id": "PPS1",
+            "respuesta": "Los pagos se hacen automaticamente al termino del curso, por eso es importante que tus datos estén correctos. Sí han pasado más de 10 días de haber concluido el curso o taller impartido y aún no ha llegado tu pago, envia un correo a cobranzanominal@santamonica.edu.mx y envianos tu incidencia."
+        },
+        {
+            "id_categoria": "PPS",
+            "id": "PPS2",
+            "respuesta": "Los pagos se hacen de inmediato al concluir los cursos o talleres impartidos, tenemos 10 día habiles por cualquier tráfico en el sistema."
+        },
+        {
+            "id_categoria": "CA",
+            "id": "CA1",
+            "respuesta": "Selecciona el curso de interés, da clic para calcular tu beca y descarga la linea de captura para hacer el pago correspondiente. Envianos tu comprobante al siguiente correo educacioncontinuadocencia@gmail.com.mx Ponte en contacto con tu jefe de asignatura para que te oriente en el proceso."
+        },
+        {
+            "id_categoria": "CA",
+            "id": "CA2",
+            "respuesta": "Todos los cursos o talleres que tengan convenio con otras instituciones tiene acreditación curricular misma que se trámita al término del curso."
+        },
+        {
+            "id_categoria": "CA",
+            "id": "CA3",
+            "respuesta": "Solo contar con tu número de empleado vigente."
+        },
+        {
+            "id_categoria": "DT",
+            "id": "DT1",
+            "respuesta": "Todos los cursos que impartes tienen una barra de porcentaje dónde puedes observar el avance general de tu clase, la propia plataforma también conserva información sobre las actividades y tareas entregadas por los alumnos en tiempo y forma. Revisalo periodicamente para ver tus metas."
+        },
+        {
+            "id_categoria": "DT",
+            "id": "DT2",
+            "respuesta": "Todos los cursos que impartes tienen una barra de porcentaje dónde puedes observar el avance general de tu clase, la propia plataforma también conserva información sobre las actividades y tareas entregadas por los alumnos en tiempo y forma. Revisalo periodicamente para ver tus metas."
+        },
+        {
+            "id_categoria": "DT",
+            "id": "DT3",
+            "respuesta": "Todos los docentes y facilitadores tienen un aula virtual para interactuar con los alumnos en tiempo real, también ponemos a tu disposición el chat con los estudiantes para que envíes dudas u observaciones de manera más personalizada."
+        },
+        {
+            "id_categoria": "DT",
+            "id": "DT4",
+            "respuesta": "Los estudiantes tienen a su disposicion un chat dónde puedes escribir de manera más personalizada las dudas que tengas, o los requirimientos a los mismos, también recuerda que cada alumno tiene correo institucional activo para escribir alguna incidencia, copiando a tu jefe de asigntura."
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST1",
+            "respuesta": "Estamos trabajando en ello. Nos pondremos en contacto contigo."
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST2",
+            "respuesta": "Te invitamos a que consultes el siguiente link https://recursosdigitales.anuies.mx/ciberseguridad-para-educacion-en-linea/"
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST3",
+            "respuesta": "Todos los fines de mes los docentes tienen un coffee break en la Universidad ya sea a distancia o de manera presencial, esto con el objetivo de impulsar el trabajo colaborativo entre profesoras y profesores para reflexionar, debatir y exponer sus puntos de vistas en un ambiente de compañerismo y crecimiento profesional."
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST4",
+            "respuesta": "Envía tu curso al administrador con sus especificaciones para que pueda publicarlo."
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST5",
+            "respuesta": "Envía un correo al administrador especificando tu incidencia para poder resolverla."
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "preguntas": [
+        {
+            "id_categoria": "AUT",
+            "id": "AUT1",
+            "pregunta": "¿Cómo puedo restablecer mi contraseña de usuario?"
+        },
+        {
+            "id_categoria": "AUT",
+            "id": "AUT2",
+            "pregunta": "Perdí mi contraseña, ¿cómo la reestablezco?"
+        },
+        {
+            "id_categoria": "AUT",
+            "id": "AUT3",
+            "pregunta": "¿Cómo puedo establecer mi perfil?"
+        },
+        {
+            "id_categoria": "OE",
+            "id": "OE1",
+            "pregunta": "¿Dónde encuentro el número de RVOE del programa educativo?"
+        },
+        {
+            "id_categoria": "OE",
+            "id": "OE2",
+            "pregunta": "¿Cómo puedo saber que docente o facilitador dará el curso? "
+        },
+        {
+            "id_categoria": "OE",
+            "id": "OE3",
+            "pregunta": "¿La plataforma educativa ofrece cursos en otros idiomas además del español?"
+        },
+        {
+            "id_categoria": "INS",
+            "id": "INS1",
+            "pregunta": "¿Cómo puedo inscribirme en un curso?"
+        },
+        {
+            "id_categoria": "INS",
+            "id": "INS2",
+            "pregunta": "¿Cómo saber si ya estoy inscrito en el curso?"
+        },
+        {
+            "id_categoria": "INS",
+            "id": "INS3",
+            "pregunta": "¿Que requisitos requiero para inscribirme en el curso?"
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE1",
+            "pregunta": "¿Cuál es el horario de atención en servicios escolares?"
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE2",
+            "pregunta": "¿Cómo tramito una constancia de estudios?"
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE3",
+            "pregunta": "¿Cómo trámito mi certificado parcial de estudios?"
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE4",
+            "pregunta": "¿Cómo trámito mi certificado total de estudios?"
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE5",
+            "pregunta": "¿Hay oportunidades de prácticas profesionales o pasantías disponibles a través de la plataforma educativa?"
+        },
+        {
+            "id_categoria": "PA",
+            "id": "PA1",
+            "pregunta": "¿Cómo pago el curso?"
+        },
+        {
+            "id_categoria": "PA",
+            "id": "PA2",
+            "pregunta": "¿Hasta cuando puedo pagar el curso?"
+        },
+        {
+            "id_categoria": "PA",
+            "id": "PA3",
+            "pregunta": "¿Hasta cuando puedo pagar la mensualidad? "
+        },
+        {
+            "id_categoria": "CP",
+            "id": "CP1",
+            "pregunta": "¿Ofrecen asesoramiento académico o profesional a los estudiantes?"
+        },
+        {
+            "id_categoria": "CP",
+            "id": "CP2",
+            "pregunta": "¿Cómo puedo contactar a un profesor o tutor? (Horarios)"
+        }
+    ]
+}

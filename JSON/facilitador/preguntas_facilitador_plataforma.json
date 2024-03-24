@@ -1,0 +1,99 @@
+{
+    "preguntas": [
+        {
+            "id_categoria": "AUT",
+            "id": "AUT1",
+            "pregunta": "¿Cómo puedo restablecer mi contraseña de usuario?"
+        },
+        {
+            "id_categoria": "AUT",
+            "id": "AUT2",
+            "pregunta": "Perdí mi contraseña, ¿cómo la reestablezco?"
+        },
+        {
+            "id_categoria": "AUT",
+            "id": "AUT3",
+            "pregunta": "¿Cómo puedo establecer mi perfil?"
+        },
+        {
+            "id_categoria": "PPS",
+            "id": "PPS1",
+            "pregunta": "¿Cómo puedo tramitar mi pago? "
+        },
+        {
+            "id_categoria": "PPS",
+            "id": "PPS2",
+            "pregunta": "¿Cuándo recibiré el pago por el curso impartido?"
+        },
+        {
+            "id_categoria": "CA",
+            "id": "CA1",
+            "pregunta": "¿Cómo puedo inscribirme a los cursos de capacitación que está impartiendo la institución?"
+        },
+        {
+            "id_categoria": "CA",
+            "id": "CA2",
+            "pregunta": "¿Qué cursos o capacitaciones tienen acreditación curricular? "
+        },
+        {
+            "id_categoria": "CA",
+            "id": "CA3",
+            "pregunta": "¿Que requisitos requiero para inscribirme en el curso?"
+        },
+        {
+            "id_categoria": "DT",
+            "id": "DT1",
+            "pregunta": "¿Que requisitos requiero para inscribirme en el curso?"
+        },
+        {
+            "id_categoria": "DT",
+            "id": "DT2",
+            "pregunta": "¿Cómo puedo monitorear el rendimiento de los estudiantes en los cursos que impartí?"
+        },
+        {
+            "id_categoria": "DT",
+            "id": "DT3",
+            "pregunta": "¿Cuáles son las herramientas de comunicación disponibles para mantenerse en contacto con los estudiantes?"
+        },
+        {
+            "id_categoria": "DT",
+            "id": "DT4",
+            "pregunta": "¿Cómo me comunicó con algún estudiante para aclarar dudas?"
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE4",
+            "pregunta": "¿Cómo trámito mi certificado total de estudios?"
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST1",
+            "pregunta": "¿Hay otras opciones de integrar el aprendizaje con otras plataformas o herramientas?"
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST2",
+            "pregunta": "¿Cuáles son las políticas de privacidad y seguridad de la plataforma educativa?"
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST3",
+            "pregunta": "¿Cuáles son las oportunidades de colaboración con otros docentes dentro de la plataforma educativa?"
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST4",
+            "pregunta": "¿Cómo puedo publicar un nuevo curso en la plataforma educativa?"
+        },
+        {
+            "id_categoria": "AST",
+            "id": "AST5",
+            "pregunta": "¿Cuál es el soporte técnico disponible para los docentes en caso de problemas o incidencias?"
+        },
+        {
+            "id_categoria": "CP",
+            "id": "CP2",
+            "pregunta": "¿Cómo puedo contactar a un profesor o tutor? (Horarios)"
+        }
+    ]
+}

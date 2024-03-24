@@ -1,0 +1,98 @@
+{
+    "respuestas": [{
+            "id_categoria": "AUT",
+            "id": "AUT1",
+            "respuesta": "Da clic en olvide mi contraseña y nosotros te enviaremos una nueva a tu correo, \"La contraseña es provisional\", se le pedirá que la cambie."
+        },
+        {
+            "id_categoria": "AUT",
+            "id": "AUT2",
+            "respuesta": "Te enviaremos a tu correo institucional la nueva contraseña. \"La contraseña es provisional\", se le pedirá que la cambie."
+        },
+        {
+            "id_categoria": "AUT",
+            "id": "AUT3",
+            "respuesta": "Da clic en tu cuenta que se encuentra en el lado superior derecho e inicia cambiando tu foto de perfil y tu nombre."
+        },
+        {
+            "id_categoria": "OE",
+            "id": "OE1",
+            "respuesta": "Da clic desde la plataforma en cualquier programa educativo y descarga el Acuerdo emitido por la SEP"
+        },
+        {
+            "id_categoria": "OE",
+            "id": "OE2",
+            "respuesta": "Al seleccionar el curso para inscribirte hay una reseña del curriculum del facilitador que estará impartiendo, podrás descargarla y revisarla a detalle."
+        },
+        {
+            "id_categoria": "OE",
+            "id": "OE3",
+            "respuesta": "Sí tenemos convenio con el Centro de Lenguas Extrajeras de Ibex que está imaprtiendo los cursos de Inglés básico, intermedio y avanzado. Para conocer más información ponte en contacto con tu monitor."
+        },
+        {
+            "id_categoria": "INS",
+            "id": "INS1",
+            "respuesta": "Para inscribirte en un curso conoce las fechas en tu calendario escolar y envia tu formulario al Departamento de Servicios Escolares."
+        },
+        {
+            "id_categoria": "INS",
+            "id": "INS2",
+            "respuesta": "Al ingresar a tu plataforma, deberás tener en el escritorio o pantalla principal los cursos a los que ya estás inscrito, si aún no aparece el curso al que te inscribiste, selecciona ayuda Servicios Escolares."
+        },
+        {
+            "id_categoria": "INS",
+            "id": "INS3",
+            "respuesta": "Respuesta 3"
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE1",
+            "respuesta": "Recuerda que los horarios de atención de manera presencial son de 9:00 a 4:00 pm y de 5:00 a 7:00 pm. De manera virtual puedes enviar un correo al departamento de Servicios Escolares y escribir en que podemos ayudarte, nos pondremos en contacto a la brevedad."
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE2",
+            "respuesta": "Da clic en trámites en línea, después elije la opción que requieras y haz el pago correspondiente, envia la captura y te llegará a tu correo. Si la requieres en fisico podras acudir en los siguientes horarios 9:00 a 4:00 pm y de 5:00 a 7:00 pm al departamento."
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE3",
+            "respuesta": "Da clic en trámites en línea, después elije la opción que requieras y haz el pago correspondiente, envia la captura y te llegará a tu correo. Si la requieres en fisico podras acudir en los siguientes horarios 9:00 a 4:00 pm y de 5:00 a 7:00 pm al departamento."
+        },
+        {
+            "id_categoria": "SE",
+            "id": "SE4",
+            "respuesta": "Da clic en trámites en línea, después elije la opción que requieras y haz el pago correspondiente, envia la captura y te llegará a tu correo. Si la requieres en fisico podras acudir en los siguientes horarios 9:00 a 4:00 pm y de 5:00 a 7:00 pm al departamento."
+        },
+        {
+            "id_categoria": "PA",
+            "id": "SE5",
+            "respuesta": "Actualmente no tenemos esa opción pero estamos trabajando para ti. Pronto recibirás noticias!"
+        },
+        {
+            "id_categoria": "PA",
+            "id": "PA1",
+            "respuesta": "Da clic en Pagos en línea, selecciona el tramite que requieres, y descarga la linea de captura para hacer el pago en cualquier banco, o a traves de la refrencia bancaria puedes hacer la transferencia bancaria y envia el recibo al siguiente correo deptofinanciero.santamonica@edu.mx"
+        },
+        {
+            "id_categoria": "PA",
+            "id": "PA2",
+            "respuesta": "Los pagos de los cursos se pueden pagar hasta un día antes del curso para que podamos enviarte toda la información necesaria."
+        },
+        {
+            "id_categoria": "PA",
+            "id": "PA3",
+            "respuesta": "Nos alegra poder ayudarte, recuerda que si quieres descuento del 10% por pronto pago debes cucbir la mensualidad en los diez primeros días, sin embargo, despues del día 11 hasta el ultimo día del mes puedes cubrir tu mensualidad sin recargos. Pasado el mes el pago tendrá recargos por pago tardío."
+        },
+        {
+            "id_categoria": "CP",
+            "id": "CP1",
+            "respuesta": "Sí, ofrecemos diferentes maneras para tener asesoramiento académico, puedes acudir de manera presencial a tu institución o también podrías acudir a tu aula virtual con tu tutor."
+        },
+        {
+            "id_categoria": "CP",
+            "id": "CP2",
+            "respuesta": "Recuerda que puedes solicitar una asesoría de manera presencial o virtual según te acomoden los horarios, ponte en contacto con el jefe de asignatura para que te envie vía correo electronico las diferentes formas para poder contactar a tu profesor."
+        }
+    ]
+}
